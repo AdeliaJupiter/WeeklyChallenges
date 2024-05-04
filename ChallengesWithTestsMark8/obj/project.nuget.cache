@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "O9BmY+xWkmx6iv2VbdMQ5i3CCjcg8QEKiX3kFpXWUnZQQZFOGq0MvzQS04ggSSEdm6lMkDelxETnZXRs9gukTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+=======
+  "dgSpecHash": "ousfHglTl5VXO6EUnk8nF4LY82KzqsmvyhfeAaUoVAZThV5kIpQjRMutjY3/nscbpRnuZ8CyfiLVCywz9uhskQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adelia\\Desktop\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+>>>>>>> 37f78792d4337508dc189ef35fa18879742d7bab
   "expectedPackageFiles": [],
   "logs": []
 }
